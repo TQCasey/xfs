@@ -1,0 +1,7 @@
+1.注意，当没有disk.img 时，必须点击 mkimg8/16.exe 生成 disk.img 
+2.VC6 工程，请先安装VC6，或者使用VS转化工程工具
+
+disk.img 是虚拟的FLASH 存储介质
+
+mkimg8.exe 重置 disk.img 为 8M 大小的FLASH 
+mkimg16.exe 重置 disk.img 为 16M 大小的FLASH
